@@ -1,0 +1,15 @@
+{
+  "name": "project-references-demo-master",
+  "version": "1.0.0",
+  "description": "The structure of this repo is as follows:",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node_modules/.bin/tsc.cmd -b tsconfig.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "3.1.3"
+  }
+}

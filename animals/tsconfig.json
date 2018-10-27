@@ -1,8 +1,8 @@
 {
-  "extends": "../tsproject.json",
+  "extends": "../tsconfig.json",
   "compilerOptions": {
     "outDir": "../lib/animals",
-    "rootDir": ".",
+    "rootDir": "."
   },
   "references": [
     { "path": "../core" }

@@ -1,5 +1,9 @@
 # TypeScript Project References Demo
 
+With configuration for VSCode.
+Includes working tsc build and watch tasks
+
+
 ## Files in this repository
 
 The structure of this repo is as follows:

@@ -1,7 +1,7 @@
 # TypeScript Project References Demo
 
-With configuration for VSCode.
-Includes working tsc build and watch tasks
+With configuration for Visual Studio 2017.
+Includes working tsc build and compile on save
 
 
 ## Files in this repository

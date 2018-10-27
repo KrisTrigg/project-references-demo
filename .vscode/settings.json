@@ -1,9 +1,15 @@
 {
     "files.exclude": {
         "node_modules/": true,
+        "lib/": true,
+        "obj/": true,
+        "bin/": true,
+        ".vs/": true,
+        "**/*.*proj": true,
+        "**/*.*proj.user": true,
+        "**/*.sln": true,
         "**/*.js": { "when": "$(basename).ts" },
-        "**/*.d.ts": { "when": "$(basename).ts" },
-        "lib/": true
+        "**/*.d.ts": { "when": "$(basename).ts" }
     },
     "typescript.tsdk": "./node_modules/typescript/lib"
 }
